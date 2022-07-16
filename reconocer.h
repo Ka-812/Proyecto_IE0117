@@ -1,0 +1,1 @@
+void reconocer_laberinto(int laberinto[100][100], int salidas_rl[], FILE *archivo);

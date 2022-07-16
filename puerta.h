@@ -1,0 +1,1 @@
+void entrada(int laberinto[100][100], int salidas[], int filas, int columnas);
