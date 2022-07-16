@@ -20,7 +20,7 @@
 
 ## Distribución del juego
 
-### Código fuente
+### Código fuente:
 ```
  principal.c 
  lectura.c 
@@ -28,7 +28,7 @@
  puerta.c
 ```
 
-### Bibliotecas
+### Bibliotecas:
 ```
  lectura.h 
  reconocer.h 
