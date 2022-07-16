@@ -1,4 +1,4 @@
 ---
 
 # `Juego` - Resolvedor de laberintos
-Se presenta el proyecto del curso IE0117. 
+Crea tu propio laberinto en un archivo de texto que se llame laberinto.txt he insértelo.
