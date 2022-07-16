@@ -36,4 +36,4 @@
 ```
 
 ## Informe técnico
-En el archivo llamado `Informe técnico.pdf` se describe con detalle el algoritmo del juego.  
+En el archivo llamado `Informe técnico B41841.pdf` se describe con detalle el algoritmo del juego.  
