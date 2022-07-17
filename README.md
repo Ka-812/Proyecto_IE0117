@@ -1,8 +1,7 @@
 # `Juego` - Resolvedor de laberintos :face_with_spiral_eyes:
 
 
-> Crea tu propio laberinto he insértelo en el archivo de texto para que obtengas su solución.
->> Código fuente C. 
+> Crea tu propio laberinto he insértelo en el archivo de texto para que obtengas su solución. 
 
 ## Pasos del juego
 ```
@@ -20,20 +19,21 @@
 
 ## Distribución del juego
 
-### Código fuente:
-```
- principal.c 
- lectura.c 
- reconocer.c 
- puerta.c
-```
+> ### Código fuente:
+> principal.c 
+> 
+> lectura.c 
+>
+> reconocer.c 
+>
+> puerta.c
+>> ### Bibliotecas:
+>> lectura.h 
+>>
+>> reconocer.h
+>>
+>> puerta.h
 
-### Bibliotecas:
-```
- lectura.h 
- reconocer.h 
- puerta.h
-```
 
 ## Informe técnico
 En el archivo llamado `Informe_tecnico_B41841.pdf` se describe con detalle el algoritmo del juego.  
