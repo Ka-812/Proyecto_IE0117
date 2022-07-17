@@ -33,7 +33,8 @@
 >> reconocer.h
 >>
 >> puerta.h
-
+>>> ### Archivo de texto:
+>>> laberinto.txt
 
 ## Informe técnico
 En el archivo llamado `Informe_tecnico_B41841.pdf` se describe con detalle el algoritmo del juego.  
