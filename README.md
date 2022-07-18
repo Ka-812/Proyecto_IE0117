@@ -1,4 +1,4 @@
-# `Juego` - Resolvedor de laberintos :face_with_spiral_eyes:
+# `Juego` - Resolvedor de laberintos :nerd_face:
 
 
 > Crea tu propio laberinto he insértelo en el archivo de texto para que obtengas su solución. 
